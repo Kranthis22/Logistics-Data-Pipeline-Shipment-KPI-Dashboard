@@ -31,3 +31,4 @@ I built a simple pipeline to process shipment data, perform transformations usin
 ## Use Case
 
 This project is based on a logistics operations scenario where shipment data is processed to monitor delivery performance and operational KPIs.
+This project reflects my hands-on experience working on data engineering and reporting solutions in enterprise environments.
